@@ -1,0 +1,11 @@
+.page-title {
+    text-align: center;
+    font-size: 50px;
+    color: saddlebrown;
+}
+img.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
